@@ -1,1 +1,1 @@
-# sql-project
+SQL Data Cleaning Project – Payments/Fraud Domain
